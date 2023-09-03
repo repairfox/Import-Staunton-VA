@@ -1,3 +1,4 @@
+# Credit to https://github.com/MikeTho16 for compiling this script
 #!/usr/bin/python3
 import re
 import copy
